@@ -2,7 +2,7 @@
 var mongoose = require('mongoose');
 
 // 需填入user/pwd
-var dbURI = "mongodb://<kuolun>:<kuolun>@ds017584.mlab.com:17584/mean_course";
+var dbURI = "自行上mlab申請帳號、mongodb URI 按照他只是貼上來做連結";
 
 //連到mlab
 mongoose.connect(dbURI);
